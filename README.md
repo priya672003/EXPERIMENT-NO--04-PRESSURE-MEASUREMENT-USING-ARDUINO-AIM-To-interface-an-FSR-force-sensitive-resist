@@ -1,4 +1,7 @@
-# EXPERIMENT-NO--03-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resistor
+### EX NO: 03
+
+### DATE:
+# <p align="center"> PRESSURE-MEASUREMENTSING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resistor</p>
 
 
 ## AIM: 
